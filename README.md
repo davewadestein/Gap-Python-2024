@@ -2,3 +2,6 @@
 
 ## How to reach me
 * dave@developintelligence.com
+
+## Resources
+* https://pythontutor.com/
