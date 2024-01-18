@@ -6,6 +6,6 @@
 ## Resources
 * https://pythontutor.com/
 
-## Day 1 Polls
-* https://xoyondo.com/op/kbzrzi0kbjfhshi
-* https://xoyondo.com/op/sfywd092ejnrurz
+## Day 2 Polls
+* https://xoyondo.com/op/tipj57pt8bcun54
+* https://xoyondo.com/op/zd9ibm0xtb199sx
