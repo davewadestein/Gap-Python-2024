@@ -7,5 +7,4 @@
 * https://pythontutor.com/
 
 ## Day 4 Recording Link
-
-* Final workbook needs some additional solutions–if this text is here, I haven't put them in yet
+* https://drive.google.com/file/d/1y_VK_pPeUFJGK6ZxkY5kn6n4EF1ATc18/view?usp=sharing
